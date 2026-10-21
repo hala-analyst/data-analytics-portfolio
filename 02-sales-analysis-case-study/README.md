@@ -2,103 +2,76 @@ Sales Analysis Case Study
 
 1. Project Overview
 
-This beginner-friendly case study explores how a small online store can use sales data to understand business performance.
-
-The goal is to practice analytical thinking and learn how data can support business decisions.
+This beginner-friendly case study explores how a small online store can use sales data to understand business performance and support better decisions.
 
 2. Business Question
+The chart below visualizes total revenue for each product using Google Sheets.
 
-How can an online store understand its sales performance and identify opportunities to improve?
+![Revenue by Product (JD)](revenue-by-product.png)
+How can an online store understand its sales performance and identify opportunities for improvement?
 
-3. Key Questions
+3. Dataset
 
-* Which products generate the most revenue?
-* Which products sell the most units?
-* How can sales data help a business make better decisions?
+The project uses a fictional sample dataset containing 10 orders, including product names, quantities sold, and unit prices.
 
-4. Data and Method
-
-This project will use a small sample sales dataset containing product names, quantities sold, and prices.
-
-Revenue can be calculated using:
+Revenue is calculated using:
 
 Revenue = Quantity Sold × Price per Unit
 
-5. Analysis Plan
+4. Tools Used
 
-1. Organize the sales data in a spreadsheet.
-2. Calculate revenue for each sale.
-3. Compare revenue across products.
-4. Identify patterns and possible business opportunities.
+* Google Sheets
+* Spreadsheet formulas: multiplication, SUM, and SUMIF
+* Bar chart visualization
+* GitHub for project documentation
 
-6. Business Recommendations
+5. Analysis Process
 
-Recommendations will be added after analyzing the sample data. They will be based on the results rather than assumptions.
+1. Organized the sample sales data in a spreadsheet.
+2. Calculated revenue for each order.
+3. Summarized revenue by product using SUMIF.
+4. Compared product revenue and identified key findings.
+5. Developed business recommendations based on the results.
 
-7. Skills Practiced
+6. Results and Findings
 
-* Business question development
-* Spreadsheet organization
-* Basic calculations
-* Revenue analysis
-* Communicating findings
-
-8. Next Steps
-
-I will add a sample dataset, perform the analysis in Excel or Google Sheets, and document the results and recommendations.
-
-9. Project Status
-
-In progress — the analysis and findings will be added as I develop my practical skills.
-10. Results and Findings
-
-Total Revenue
-
-The sample store generated 130 JD in total revenue across 10 orders.
-
-Revenue by Product
+Total Revenue: JD 130 across 10 sample orders.
 
 Product	Total Revenue
-Backpack	45 JD
-Water Bottle	42 JD
-Notebook	28 JD
-Pen	15 JD
+Backpack	JD 45
+Water Bottle	JD 42
+Notebook	JD 28
+Pen	JD 15
 
 Key Findings
 
-* Backpacks generated the highest revenue at 45 JD.
-* Water bottles ranked second, generating 42 JD.
-* Pens generated the lowest revenue at 15 JD.
+* Backpacks generated the highest revenue at JD 45.
+* Water bottles ranked second at JD 42.
+* Pens generated the lowest revenue at JD 15.
 
-Business Recommendations
+7. Revenue by Product
 
-* Review backpack sales to understand what makes this product perform well.
+The chart below visualizes total revenue for each product using Google Sheets.
+
+8. Business Recommendations
+
+* Investigate what drives backpack revenue and whether its performance can be maintained.
 * Monitor water bottle sales because their revenue is close to that of backpacks.
-* Investigate whether promotions or product bundles could improve pen sales.
+* Explore promotions or product bundles for pens and evaluate their impact.
 
-Limitations
+9. Skills Practiced
 
-This analysis uses fictional sample data and only 10 orders. The findings cannot be assumed to represent a real business.
-
-Skills Practiced
-
-* Calculating revenue using spreadsheet formulas
-* Summarizing data by product 
-* Comparing business performance
+* Developing business questions
+* Organizing spreadsheet data
+* Calculating revenue using formulas
+* Summarizing and comparing product performance
+* Creating data visualizations
 * Communicating findings and recommendations
-## Revenue by Product
 
-The chart below visualizes revenue for each product using Google Sheets.
+10. Limitations
 
-![Revenue by Product (JD)](revenue-by-product.png)
-Key Business Insights
+This analysis uses fictional sample data containing only 10 orders. Revenue alone does not show profit, costs, or customer demand, so the findings should not be treated as conclusions about a real business.
 
-* Total Revenue: The sample dataset generated JD 130 across 10 orders.
-* Top-Performing Product: Backpacks generated the highest revenue at JD 45.
-* Second-Highest Product: Water bottles generated JD 42.
-* Lowest Revenue: Pens generated JD 15.
-* Business Recommendation: Consider promoting lower-revenue products and investigating what drives demand for the best-performing products.
+11. Project Status
 
-Project Limitations
-
-This analysis uses a fictional dataset containing only 10 orders. The findings are useful for practicing data analysis but should not be treated as conclusions about a real business.
+Completed beginner-level practice case study. Future improvements could include analyzing units sold, profit, and monthly sales trends.
