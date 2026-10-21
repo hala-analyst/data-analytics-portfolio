@@ -83,6 +83,6 @@ This analysis uses fictional sample data and only 10 orders. The findings cannot
 Skills Practiced
 
 * Calculating revenue using spreadsheet formulas
-* Summarizing data by product
+* Summarizing data by product 
 * Comparing business performance
 * Communicating findings and recommendations
