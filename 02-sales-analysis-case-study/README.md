@@ -4,10 +4,8 @@ Sales Analysis Case Study
 
 This beginner-friendly case study explores how a small online store can use sales data to understand business performance and support better decisions.
 
-2. Business Question
-The chart below visualizes total revenue for each product using Google Sheets.
+## 2. Business Question
 
-![Revenue by Product (JD)](revenue-by-product.png)
 How can an online store understand its sales performance and identify opportunities for improvement?
 
 3. Dataset
@@ -37,12 +35,12 @@ Revenue = Quantity Sold × Price per Unit
 
 Total Revenue: JD 130 across 10 sample orders.
 
-Product	Total Revenue
-Backpack	JD 45
-Water Bottle	JD 42
-Notebook	JD 28
-Pen	JD 15
-
+| Product | Total Revenue |
+|---|---:|
+| Backpack | JD 45 |
+| Water Bottle | JD 42 |
+| Notebook | JD 28 |
+| Pen | JD 15 |
 Key Findings
 
 * Backpacks generated the highest revenue at JD 45.
@@ -52,6 +50,7 @@ Key Findings
 7. Revenue by Product
 
 The chart below visualizes total revenue for each product using Google Sheets.
+![Revenue by Product (JD)](revenue-by-product.png)
 
 8. Business Recommendations
 
