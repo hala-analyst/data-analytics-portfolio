@@ -86,7 +86,7 @@ Skills Practiced
 * Summarizing data by product 
 * Comparing business performance
 * Communicating findings and recommendations
-* ## Revenue by Product
+## Revenue by Product
 
 The chart below visualizes revenue for each product using Google Sheets.
 
