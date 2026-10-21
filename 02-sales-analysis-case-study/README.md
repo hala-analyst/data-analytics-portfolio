@@ -40,6 +40,7 @@ Total Revenue: JD 130 across 10 sample orders.
 | Water Bottle | JD 42 |
 | Notebook | JD 28 |
 | Pen | JD 15 |
+
 Key Findings
 
 * Backpacks generated the highest revenue at JD 45.
