@@ -1,14 +1,14 @@
 Sales Analysis Case Study
 
-1. Project Overview
+## Project Overview
 
 This beginner-friendly case study explores how a small online store can use sales data to understand business performance and support better decisions.
 
-## 2. Business Question
+## 1. Business Question
 
 How can an online store understand its sales performance and identify opportunities for improvement?
 
-3. Dataset
+## 2. Dataset
 
 The project uses a fictional sample dataset containing 10 orders, including product names, quantities sold, and unit prices.
 
@@ -16,14 +16,14 @@ Revenue is calculated using:
 
 Revenue = Quantity Sold × Price per Unit
 
-4. Tools Used
+## 3. Tools Used
 
 * Google Sheets
 * Spreadsheet formulas: multiplication, SUM, and SUMIF
 * Bar chart visualization
 * GitHub for project documentation
 
-5. Analysis Process
+## 4. Analysis Process
 
 1. Organized the sample sales data in a spreadsheet.
 2. Calculated revenue for each order.
@@ -31,7 +31,7 @@ Revenue = Quantity Sold × Price per Unit
 4. Compared product revenue and identified key findings.
 5. Developed business recommendations based on the results.
 
-6. Results and Findings
+## 5. Results and Findings
 
 Total Revenue: JD 130 across 10 sample orders.
 
@@ -47,18 +47,18 @@ Key Findings
 * Water bottles ranked second at JD 42.
 * Pens generated the lowest revenue at JD 15.
 
-7. Revenue by Product
+## 6. Revenue by Product
 
 The chart below visualizes total revenue for each product using Google Sheets.
 ![Revenue by Product (JD)](revenue-by-product.png)
 
-8. Business Recommendations
+## 7. Business Recommendations
 
 * Investigate what drives backpack revenue and whether its performance can be maintained.
 * Monitor water bottle sales because their revenue is close to that of backpacks.
 * Explore promotions or product bundles for pens and evaluate their impact.
 
-9. Skills Practiced
+## 8. Skills Practiced
 
 * Developing business questions
 * Organizing spreadsheet data
@@ -67,10 +67,10 @@ The chart below visualizes total revenue for each product using Google Sheets.
 * Creating data visualizations
 * Communicating findings and recommendations
 
-10. Limitations
+## 9. Limitations
 
 This analysis uses fictional sample data containing only 10 orders. Revenue alone does not show profit, costs, or customer demand, so the findings should not be treated as conclusions about a real business.
 
-11. Project Status
+## 10. Project Status
 
 Completed beginner-level practice case study. Future improvements could include analyzing units sold, profit, and monthly sales trends.
