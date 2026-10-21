@@ -34,7 +34,6 @@ Revenue = Quantity Sold × Price per Unit
 ## 5. Results and Findings
 
 Total Revenue: JD 130 across 10 sample orders.
-
 | Product | Total Revenue |
 |---|---:|
 | Backpack | JD 45 |
