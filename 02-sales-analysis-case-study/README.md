@@ -91,3 +91,14 @@ Skills Practiced
 The chart below visualizes revenue for each product using Google Sheets.
 
 ![Revenue by Product (JD)](revenue-by-product.png)
+Key Business Insights
+
+* Total Revenue: The sample dataset generated JD 130 across 10 orders.
+* Top-Performing Product: Backpacks generated the highest revenue at JD 45.
+* Second-Highest Product: Water bottles generated JD 42.
+* Lowest Revenue: Pens generated JD 15.
+* Business Recommendation: Consider promoting lower-revenue products and investigating what drives demand for the best-performing products.
+
+Project Limitations
+
+This analysis uses a fictional dataset containing only 10 orders. The findings are useful for practicing data analysis but should not be treated as conclusions about a real business.
